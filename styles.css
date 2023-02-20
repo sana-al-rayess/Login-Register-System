@@ -1,0 +1,41 @@
+body {
+    background-image: url("./images/6041694.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  img {
+    margin-top: 50px;
+    width: 5%;
+    height: auto;
+  }
+  .card{
+       
+    color: rgb(32, 240, 25);
+
+}
+  .card-body{
+    background-color: rgb(42, 41, 41);
+    border-radius: 5px;
+  }
+  form-control{
+    margin: 20px;
+  }
+  
+  .label1{
+    padding-top: 20px;
+    color: white;
+    font-size: 15px;
+  }
+  .a{
+    padding-top: 20px;
+    color: #2bd753;
+    font-size: 15px;
+  }
+  .a:hover{
+    color: #52fd08;
+  }
+.container{
+  padding-bottom: 20px;
+}
